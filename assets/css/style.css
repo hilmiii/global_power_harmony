@@ -501,9 +501,9 @@ section {
 }
 
 @media only screen and (max-width: 600px) {
-  .struktur img{
-    width: 300px;
-    height: 400px;
+  .struktur .img-thumbnail-content{
+    width: 200px;
+    height: 100px;
   }
 }
 
@@ -562,11 +562,11 @@ Hubungi Kami
 @media only screen and (max-width: 600px) {
   .hubungi_kami .card {
     width: 300px;
-    height: 650px;
+    height: 600px;
   }
   .hubungi_kami .card img{
     width: 358px;
-    height: 600px;
+    height: 500px;
   }
 }
 
