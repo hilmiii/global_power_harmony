@@ -500,6 +500,13 @@ section {
   max-width: 100%;
 }
 
+@media only screen and (max-width: 600px) {
+  .struktur img{
+    width: 300px;
+    height: 400px;
+  }
+}
+
 #struktur{
   max-width: 100%;
 }
