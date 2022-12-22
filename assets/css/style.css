@@ -457,7 +457,18 @@ section {
 }
 
 #table{
-  max-width: 80%;
+  max-width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  table {
+    table-layout: fixed;
+    width: 200px;
+  }
+  tr {
+    width: 100px;
+    overflow: hidden;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -494,6 +505,12 @@ section {
 .row img{
   max-height: 350px;
   margin-bottom: 50px;
+}
+@media only screen and (max-width: 600px) {
+  img {
+    width: 320px;
+    height: 700px;
+  }
 }
 
 .row h2 {
@@ -532,6 +549,12 @@ Hubungi Kami
 --------------------------------------------------------------*/
 #hubungi_kami{
   max-width: 100%;
+}
+@media only screen and (max-width: 600px) {
+  .hubungi_kami .card {
+    width: 300px;
+    height: 700px;
+  }
 }
 
 /*--------------------------------------------------------------
