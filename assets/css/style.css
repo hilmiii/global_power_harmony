@@ -461,12 +461,12 @@ section {
 }
 
 @media only screen and (max-width: 600px) {
-  table {
+  .table table {
     table-layout: fixed;
-    width: 200px;
+    width: 400px;
   }
-  tr {
-    width: 100px;
+  .table tr {
+    width: 200px;
     overflow: hidden;
   }
 }
@@ -509,7 +509,7 @@ section {
 @media only screen and (max-width: 600px) {
   img {
     width: 320px;
-    height: 700px;
+    height: 600px;
   }
 }
 
@@ -553,7 +553,11 @@ Hubungi Kami
 @media only screen and (max-width: 600px) {
   .hubungi_kami .card {
     width: 300px;
-    height: 700px;
+    height: 650px;
+  }
+  .hubungi_kami .card img{
+    width: 358px;
+    height: 600px;
   }
 }
 
