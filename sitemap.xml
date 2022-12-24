@@ -1,28 +1,42 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!-- created with sitemap-gen https://sitemap-gen.com/ -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://globalpowerharmony.netlify.app/</loc>
-		<lastmod>2022-12-23T07:45:57.6848473+01:00</lastmod>
-	</url>
-	<url>
-		<loc>https://globalpowerharmony.netlify.app/index.html</loc>
-		<lastmod>2022-12-23T07:45:57.6848473+01:00</lastmod>
-	</url>
-	<url>
-		<loc>https://globalpowerharmony.netlify.app/tentang_perusahaan.html</loc>
-		<lastmod>2022-12-23T07:45:57.6848473+01:00</lastmod>
-	</url>
-	<url>
-		<loc>https://globalpowerharmony.netlify.app/dokumentasi.html</loc>
-		<lastmod>2022-12-23T07:45:57.6848473+01:00</lastmod>
-	</url>
-	<url>
-		<loc>https://globalpowerharmony.netlify.app/struktur.html</loc>
-		<lastmod>2022-12-23T07:45:57.6848473+01:00</lastmod>
-	</url>
-	<url>
-		<loc>https://globalpowerharmony.netlify.app/hubungi_kami.html</loc>
-		<lastmod>2022-12-23T07:45:57.6848473+01:00</lastmod>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://globalpowerharmony.my.id/</loc>
+  <lastmod>2022-12-24T06:41:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://globalpowerharmony.my.id/index.html</loc>
+  <lastmod>2022-12-24T06:41:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globalpowerharmony.my.id/tentang_perusahaan.html</loc>
+  <lastmod>2022-12-24T06:41:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globalpowerharmony.my.id/dokumentasi.html</loc>
+  <lastmod>2022-12-24T06:41:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globalpowerharmony.my.id/struktur.html</loc>
+  <lastmod>2022-12-24T06:41:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globalpowerharmony.my.id/hubungi_kami.html</loc>
+  <lastmod>2022-12-24T06:41:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>

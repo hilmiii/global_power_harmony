@@ -496,14 +496,14 @@ section {
   left: calc(50% - 250px);
 }
 
-.struktur img{
+.struktur .img-thumbnail-content{
   max-width: 100%;
 }
 
 @media only screen and (max-width: 600px) {
-  .struktur .img-thumbnail-content{
-    width: 200px;
-    height: 100px;
+  .struktur .gambarstruktur{
+    width: 280px;
+    height: 290px;
   }
 }
 
@@ -515,10 +515,11 @@ section {
   max-height: 350px;
   margin-bottom: 50px;
 }
+
 @media only screen and (max-width: 600px) {
-  img {
+  .dok {
     width: 320px;
-    height: 460px;
+    height: 240px;
   }
 }
 
@@ -560,13 +561,12 @@ Hubungi Kami
   max-width: 100%;
 }
 @media only screen and (max-width: 600px) {
-  .hubungi_kami .card {
-    width: 300px;
+  .hubungi_kami .kartu {
+    width: 200px;
     height: 600px;
   }
-  .hubungi_kami .card img{
-    width: 358px;
-    height: 500px;
+  .hub {
+    height: 250px;
   }
 }
 
